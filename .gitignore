@@ -1,0 +1,9 @@
+# Raw datasets
+Data/raw/
+
+# Temporary files
+*.tmp
+*.log
+
+# Power BI temporary files
+*.pbix.autorecover
